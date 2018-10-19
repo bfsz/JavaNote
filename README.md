@@ -17,8 +17,18 @@
 ## [异常](https://github.com/bfsz/JavaText/blob/master/src/com/stu/ExceptionDemo.java)
 ![异常](https://github.com/bfsz/JavaText/blob/master/src/com/images/690102-20160728164909622-1770558953.png)
   [异常笔记](https://github.com/bfsz/JavaText/blob/master/src/com/note/ExceptionNote.md)
- 
-    
+## [继承]()
+继承的特性
+
+    子类拥有父类非private的属性，方法。
+
+    子类可以拥有自己的属性和方法，即子类可以对父类进行扩展。
+
+    子类可以用自己的方式实现父类的方法。
+
+    Java的继承是单继承，但是可以多重继承，单继承就是一个子类只能继承一个父类，多重继承就是，例如A类继承B类，B类继承C类，所以按照关系就是C类是B类的父类，B类是A类的父类，这是java继承区别于C++继承的一个特性。
+
+    提高了类之间的耦合性（继承的缺点，耦合度高就会造成代码之间的联系越紧密，代码独立性越差）
  
  
  
