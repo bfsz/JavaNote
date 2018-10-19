@@ -15,6 +15,9 @@
 ## [Java 流(Stream)、文件(File)和IO](https://github.com/bfsz/JavaText/blob/master/src/com/stu/IoStreamFile.java)
 ## [读写数据](https://github.com/bfsz/JavaText/blob/master/src/com/stu/FileInputStreamDemo.java)
 ## [异常](https://github.com/bfsz/JavaText/blob/master/src/com/stu/ExceptionDemo.java)
+![异常](https://github.com/bfsz/JavaText/blob/master/src/com/images/690102-20160728164909622-1770558953.png)
+[异常笔记](https://github.com/bfsz/JavaText/blob/master/src/com/note/ExceptionNote.md)
+ 
     
  
  
