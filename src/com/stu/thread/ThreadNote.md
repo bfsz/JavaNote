@@ -2,7 +2,7 @@
 
 ## 1、线程的生命周期 
 
-![](D:\项目\文档笔记\SSM_DEMO\production_ssm-master\JavaText\src\com\images\线程.jpg)
+![](https://github.com/bfsz/JavaText/blob/master/src/com/images/%E7%BA%BF%E7%A8%8B.jpg)
 
 - **新建状态：**
 
